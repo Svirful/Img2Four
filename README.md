@@ -1,5 +1,5 @@
 # Img2Four
-Pyton script to change image dimensions to be the power of 4
+Python script to change image dimensions to be the power of 4
 
 
 USAGE:
